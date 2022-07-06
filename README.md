@@ -1,0 +1,2 @@
+# Java Synchronization Project
+ •	It s required to simulate a limited number of devices connected to a router’s Wi-Fi using Java threading and semaphore. Routers can design to limit the number of open connections. For example, a router may wish to have only N connections at any point in time. As soon as N connections are made, the router will not accept other incoming connection until an existing connection is released. In this project, I explained how semaphores can be used by a router to limit the number of concurrent connections.
